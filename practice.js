@@ -1,3 +1,5 @@
+//  FreeCodeCamp.Org
+
 let listItem = document.querySelectorAll('.list-items');
 
 for(i = 0; i < listItem.length; i++){
